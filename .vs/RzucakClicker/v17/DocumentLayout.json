@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|d:\\pulpity itp\\pulpit\\rzucakclicker-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|d:\\pulpity itp\\pulpit\\rzucakclicker-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|d:\\pulpity itp\\pulpit\\rzucakclicker-2\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\m.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:m.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|D:\\pulpity itp\\pulpit\\rzucakclicker-2\\httpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EB9786-8048-4985-8ED9-C8E7CE1729BF}|RzucakClicker.csproj|solutionrelative:httpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:25:17.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:38.298Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAF8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Projekt]",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form4.cs [Projekt]",
+              "RelativeToolTip": "Form4.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.095Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T16:08:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "m.manifest",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\m.manifest",
+              "RelativeDocumentMoniker": "m.manifest",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\m.manifest",
+              "RelativeToolTip": "m.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-05-29T16:08:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings1.settings",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Settings1.settings",
+              "RelativeDocumentMoniker": "Settings1.settings",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Settings1.settings",
+              "RelativeToolTip": "Settings1.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-29T16:08:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "help.cs",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\help.cs",
+              "RelativeDocumentMoniker": "help.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\help.cs",
+              "RelativeToolTip": "help.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "help.cs [Projekt]",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\help.cs",
+              "RelativeDocumentMoniker": "help.cs",
+              "ToolTip": "D:\\Projecty Visual Studio\\OlomowoRzucakClicker\\OlomowoRzucakClicker\\help.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\Projecty Visual Studio\\OlomowoRzucakClicker\\OlomowoRzucakClicker\\help.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-29T16:08:33.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAiwK8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projekt]",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\Form2.cs [Projekt]",
+              "RelativeToolTip": "Form2.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.27Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpClient.cs",
+              "DocumentMoniker": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\HttpClient.cs",
+              "RelativeDocumentMoniker": "HttpClient.cs",
+              "ToolTip": "D:\\pulpity itp\\pulpit\\rzucakclicker-2\\HttpClient.cs",
+              "RelativeToolTip": "HttpClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:08:33.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

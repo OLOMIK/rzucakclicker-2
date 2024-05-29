@@ -1,0 +1,15 @@
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.exe.config
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.exe
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.pdb
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\RzucakClicker.csproj.AssemblyReference.cache
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\RzucakClicker.csproj.SuggestedBindingRedirects.cache
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form1.resources
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form2.resources
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form3.resources
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form4.resources
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Properties.Resources.resources
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\RzucakClicker.csproj.GenerateResource.cache
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\RzucakClicker.csproj.CoreCompileInputs.cache
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.exe
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.pdb
+D:\Projecty Visual Studio\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.help.resources

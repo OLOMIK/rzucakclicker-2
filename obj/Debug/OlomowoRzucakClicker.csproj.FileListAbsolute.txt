@@ -1,0 +1,14 @@
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.exe.config
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.exe
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\bin\Debug\OlomowoRzucakClicker.pdb
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.csproj.AssemblyReference.cache
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form1.resources
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form2.resources
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Properties.Resources.resources
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.csproj.GenerateResource.cache
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.csproj.CoreCompileInputs.cache
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.exe
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.pdb
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form3.resources
+C:\Users\TenOdGasnicy\source\repos\OlomowoRzucakClicker\OlomowoRzucakClicker\obj\Debug\OlomowoRzucakClicker.Form4.resources
