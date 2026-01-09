@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Timers;
 using System.Net;
+using System.IO;
 namespace OlomowoRzucakClicker
 {
     
@@ -143,14 +144,14 @@ namespace OlomowoRzucakClicker
 
             try
             {
-                if (System.IO.File.Exists(Application.StartupPath + @"\Points.txt"))
+                if (File.Exists(Application.StartupPath + @"\Points.txt"))
                 {
-                    System.IO.File.WriteAllText(Application.StartupPath + @"\Points.txt", "Punkty: " + kapsula + "Gracz: " + user);
+                    File.WriteAllText(Application.StartupPath + @"\Points.txt", "Punkty: " + kapsula + "Gracz: " + user);
 
                 }
                 else
                 {
-                    System.IO.File.WriteAllText(Application.StartupPath + @"\Points.txt", "Punkty: " + kapsula + "Gracz: " + user);
+                    File.WriteAllText(Application.StartupPath + @"\Points.txt", "Punkty: " + kapsula + "Gracz: " + user);
                 }
             }
             catch
